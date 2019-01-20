@@ -1,0 +1,17 @@
+p{
+    color:rgba(165, 42, 42, 0.993);
+    background-color:beige;
+    border: 1px solid black;
+}
+.hello{
+    color: black;
+    background-color: tomato;
+}
+#hello{
+    color: blue;
+    background-color: aliceblue;
+    border: 1px solid red;
+}
+p:hover{
+    color:black;
+}
